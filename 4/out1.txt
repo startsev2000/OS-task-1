@@ -1,0 +1,2 @@
+Uppercase count: 1
+Lowercase count: 9

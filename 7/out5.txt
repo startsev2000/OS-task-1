@@ -1,0 +1,2 @@
+Uppercase count: 0
+Lowercase count: 0

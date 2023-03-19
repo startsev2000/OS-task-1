@@ -1,0 +1,2 @@
+Uppercase count: 5
+Lowercase count: 24
